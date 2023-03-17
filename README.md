@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Half Stack JavaScript Development Student</h3>
 Hello, my name is Kaan and I am 16 years old. I started a few years ago by developing Discord bots. And I continue to develop software by making Bots with 60% Knowledge. I'm still learning new things in programming. JavaScript, html, python.
 
-<a href="https://discord.com/users/701518625760346172" title="Discord Profile"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/783566602079567942"></a>
+<a href="https://discord.com/users/701518625760346172" title="Discord Profile"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/701518625760346172"></a>
 
 ### ⚡ Contact
 
