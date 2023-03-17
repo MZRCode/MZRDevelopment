@@ -21,5 +21,5 @@ Hello, my name is Kaan and I am 16 years old. I started a few years ago by devel
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-264de4?style=flat-square&logo=css3&logoColor=white"/>
+    <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-5865F2?style=flat-square&logo=python&logoColor=white"/>
 </div>
