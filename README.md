@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Half Stack JavaScript Development Student</h3>
 Hello, my name is Kaan and I am 16 years old. I started a few years ago by developing Discord bots. And I continue to develop software by making Bots with 60% Knowledge. I'm still learning new things in programming. JavaScript, html, python.
 
-<a href="https://discord.com/users/701518625760346172" title="Discord Profile"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/701518625760346172"></a>
+<a href="https://discord.com/users/701518625760346172" title="Discord Profile"><img align="right"></a>
 
 ### ⚡ Contact
 
@@ -21,7 +21,6 @@ Hello, my name is Kaan and I am 16 years old. I started a few years ago by devel
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
-    <img alt="Vue.js" align="center" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white"/>
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
