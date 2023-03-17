@@ -24,8 +24,3 @@ Hello, my name is Kaan and I am 16 years old. I started a few years ago by devel
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
-
-## 📈 Github Stats
-
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MZRCode&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=MZRCode&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
