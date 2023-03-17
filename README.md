@@ -7,7 +7,7 @@ Hello, my name is Kaan and I am 16 years old. I started a few years ago by devel
 
 ### ⚡ Contact
 
-[<img align="left" height="24" width="24" src="https://dosya.co/jaexuyk7c935/instacool.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://www.dosyaupload.com/L5iv/instacool.svg" />][instagram]
 [<img align="left" height="24" width="24" src="file:///C:/Users/mzrki/Downloads/gmailcool_1.svg" />][gmail]
 [<img align="left" height="24" width="24" src="file:///C:/Users/mzrki/Downloads/discordcool_1.svg" />][discord]
 
