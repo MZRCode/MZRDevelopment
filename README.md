@@ -7,9 +7,9 @@ Hello, my name is Kaan and I am 16 years old. I started a few years ago by devel
 
 ### ⚡ Contact
 
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/discord.svg" />][discord]
+[<img align="left" height="24" width="24" src="file:///C:/Users/mzrki/Downloads/instacool.svg" />][instagram]
+[<img align="left" height="24" width="24" src="file:///C:/Users/mzrki/Downloads/gmailcool_1.svg" />][gmail]
+[<img align="left" height="24" width="24" src="file:///C:/Users/mzrki/Downloads/discordcool_1.svg" />][discord]
 
 [instagram]: https://www.instagram.com/teampet.csn
 [gmail]: mailto:kaandbusiness@gmail.com
