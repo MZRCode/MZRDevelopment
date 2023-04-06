@@ -1,25 +1,35 @@
 
-<h1 align="center">✨ Hi, I am MZR</h1>
-<h3 align="center">A passionate %65 JavaScript Development Student</h3>
-Hello, my name is Kaan and I am 16 years old. I started a few years ago by developing Discord bots. And I continue to develop software by making Bots with 65% Knowledge. I'm still learning new things in programming. JavaScript, html, python.
+<div align="center">
+<h3>Contact İnformation</h3>
+<a href="https://discord.gg/210" target"blank_"><img src="https://img.shields.io/badge/Axelance%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://sptfy.com/axelance/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCiy5x3T5ptINoKbfY5uRogA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/axelancexld" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
-<a href="https://discord.com/users/701518625760346172" title="Discord Profile"><img align="right"></a>
-
-### ⚡ Contact
-
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
-
-[instagram]: https://www.instagram.com/teampet.csn
-[gmail]: mailto:kaandbusiness@gmail.com
-[discord]: https://discord.gg/mzrdevelopment
-<br />
-
-## 💻 Technologies I Use
 
 <div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-5865F2?style=flat-square&logo=python&logoColor=white"/>
+<h3>Languages and Tools</h3>
+<a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
+
+<img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=Discord.Js&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
+
+
+<div align="center">
+<h3>Github Stats</h3>
+  <div><img src="https://gpvc.arturio.dev/axelancexld"/></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=axelancexld&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelancexld&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
+</a>
+
+<div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/324814243822305282" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/324814243822305282?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=31px">
+   </a>
 </div>
