@@ -2,9 +2,9 @@
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.gg/mzrdevelopment" target"blank_"><img src="https://img.shields.io/badge/MZR Development%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://sptfy.com/axelance/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCiy5x3T5ptINoKbfY5uRogA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://github.com/axelancexld" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://open.spotify.com/user/x9cbfwe8xc9iu6eqfbpsw2ujb" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/@MZRDev" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/MZRCode" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 
