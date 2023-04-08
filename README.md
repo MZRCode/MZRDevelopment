@@ -18,11 +18,3 @@
 <img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
-
-
-<div align="center">
-<h3>Discord Activity</h3>
-   <a href="https://discord.com/users/701518625760346172" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/324814243822305282?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=31px">
-   </a>
-</div>
